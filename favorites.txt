@@ -1,5 +1,7 @@
-Name: Meredith 
+Name: Joseph
 
-My favorite color is: red
+My favorite color is: blue
 
-My favorite animal is: dophin
+My favorite animal is: sea lion
+
+My favorite movie is: Se7en
